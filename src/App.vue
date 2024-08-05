@@ -1,10 +1,10 @@
 <script lang="ts" setup>
-import Online from './components/Online.vue';
+import InternetStatus from './components/InternetStatus.vue';
 </script>
 
 <template>
   <div id="app">
-    <Online />
+    <InternetStatus />
   </div>
 </template>
 
